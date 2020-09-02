@@ -1,6 +1,6 @@
 # _Adding to Arrays: push and unshift_
 
-#### _This super short program demonstrates how add items to an array using the push and unshift methods in JavaScript. September 2020_
+#### _This super short program demonstrates how to add items to an array using the push and unshift methods in JavaScript. September 2020_
 
 #### By _**Elizabeth Eymann**_
 
